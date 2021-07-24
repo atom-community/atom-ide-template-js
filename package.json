@@ -30,7 +30,7 @@
     "atom": ">=0.174.0 <2.0.0"
   },
   "dependencies": {
-    "atom-package-deps": "^7.2.3"
+    "atom-package-deps": "^8.0.0"
   },
   "devDependencies": {
     "@babel/cli": "7.14.8",
