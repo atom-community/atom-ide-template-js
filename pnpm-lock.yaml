@@ -15,7 +15,7 @@ importers:
       build-commit: 0.1.4
       coffeescript: ~2.5.1
       cross-env: ^7.0.3
-      eslint: 7.31.0
+      eslint: 7.32.0
       eslint-config-atomic: ^1.14.3
       npm-check-updates: 11.8.3
       prettier: ^2.2.1
@@ -37,7 +37,7 @@ importers:
       build-commit: 0.1.4
       coffeescript: 2.5.1
       cross-env: 7.0.3
-      eslint: 7.31.0
+      eslint: 7.32.0
       eslint-config-atomic: 1.14.3
       npm-check-updates: 11.8.3
       prettier: 2.2.1
@@ -3878,8 +3878,8 @@ packages:
       v8-compile-cache: 2.1.1
     dev: true
 
-  /eslint/7.31.0:
-    resolution: {integrity: sha512-vafgJpSh2ia8tnTkNUkwxGmnumgckLh5aAbLa1xRmIn9+owi8qBNGKL+B881kNKNTy7FFqTEkpNkUvmw0n6PkA==}
+  /eslint/7.32.0:
+    resolution: {integrity: sha512-VHZ8gX+EDfz+97jGcgyGCyRia/dPOd6Xh9yPv8Bl1+SoaIwD+a/vlrOmGRUyOYu7MwUhc7CxqeaDZU13S4+EpA==}
     engines: {node: ^10.12.0 || >=12.0.0}
     hasBin: true
     dependencies:
@@ -3903,7 +3903,7 @@ packages:
       file-entry-cache: 6.0.1
       functional-red-black-tree: 1.0.1
       glob-parent: 5.1.2
-      globals: 13.7.0
+      globals: 13.10.0
       ignore: 4.0.6
       import-fresh: 3.2.1
       imurmurhash: 0.1.4
